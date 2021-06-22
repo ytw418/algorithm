@@ -23,5 +23,5 @@ rl.on('line', function (line) {
   }
 
 }).on('close', function () {
-  process.exit(); //끝
+  process.exit(); //끝 end
 });
