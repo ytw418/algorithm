@@ -20,7 +20,7 @@ rl.on('line', function(line){
         num1 -= 1;
 
         if(num1 === -1){
-            num = 23;
+            num1 = 23;
         }
     }
     else {
