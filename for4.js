@@ -1,4 +1,3 @@
-
 let input = require('fs').readFileSync('/dev/stdin').toString().split('\n');
 
 let max = Number(input[0]);
